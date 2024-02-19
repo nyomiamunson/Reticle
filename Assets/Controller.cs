@@ -9,9 +9,9 @@ public class Controller : MonoBehaviour
 
     // Define bounds for movement (adjust as needed)
     float minX = -7.7f;  // Left bound
-    float maxX = 9.5f;   // Right bound
-    float minY = -6f; // Bottom bound
-    float maxY = 3.5f; // Top bound
+    float maxX = 9.3f;   // Right bound
+    float minY = -5.8f; // Bottom bound
+    float maxY = 3.4f; // Top bound
 
     // Start is called before the first frame update
     void Start()
